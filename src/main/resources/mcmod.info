@@ -1,0 +1,25 @@
+[
+    {
+        "modid": "cyber",
+        "name": "cyber",
+        "description": "Cybernetically augmenting minecraft.",
+        "version": "1.0",
+        "credits": "",
+        "logoFile": "",
+        "mcversion": "1.7.2",
+        "url": "",
+        "updateUrl": "",
+        "authors": [
+            "Allgorhythm"
+        ],
+        "parent": "",
+        "requiredMods": [
+            ""
+        ],
+        "dependencies": [
+            ""
+        ],
+        "dependants": [],
+        "screenshots": [],
+    }
+]
