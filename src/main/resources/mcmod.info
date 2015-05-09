@@ -1,25 +1,16 @@
 [
-    {
-        "modid": "cyber",
-        "name": "cyber",
-        "description": "Cybernetically augmenting minecraft.",
-        "version": "1.0",
-        "credits": "",
-        "logoFile": "",
-        "mcversion": "1.7.2",
-        "url": "",
-        "updateUrl": "",
-        "authors": [
-            "Allgorhythm"
-        ],
-        "parent": "",
-        "requiredMods": [
-            ""
-        ],
-        "dependencies": [
-            ""
-        ],
-        "dependants": [],
-        "screenshots": [],
-    }
+{
+"modid": "cyber",
+"name": "Cyber()",
+"description": "Cybernetically augmenting Minecraft.",
+"version": "1.0",
+"mcversion": "1.7.2",
+"logoFile": "",
+"url": "",
+"authorList": [ "Allgorhythm" ],
+"credits": "",
+"parent": "",
+"screenshots": [],
+"dependencies": ["mod_MinecraftForge"]
+}
 ]
