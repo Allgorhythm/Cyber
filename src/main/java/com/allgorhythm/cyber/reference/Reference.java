@@ -1,8 +1,5 @@
 package com.allgorhythm.cyber.reference;
 
-/**
- * Created by Brandon on 5/9/2015.
- */
 public class Reference
 {
     public static final String MOD_ID = "cyber";
