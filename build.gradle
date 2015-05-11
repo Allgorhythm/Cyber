@@ -17,12 +17,12 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.2-1.0"
+version = "1.7.10-1.0"
 group= "com.allgorhythm.cyber" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "cyber"
 
 minecraft {
-    version = "1.7.2-10.12.2.1121"
+    version = "1.7.10-10.13.0.1160"
     assetDir = "eclipse/assets"
 }
 
