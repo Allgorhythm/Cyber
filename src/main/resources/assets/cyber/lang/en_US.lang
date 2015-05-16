@@ -1,2 +1,18 @@
 item.cyber:octironIngot.name=Octiron Ingot
 item.cyber:octironNugget.name=Octiron Nugget
+item.cyber:cyberneticVoidCore.name=Cybernetic Void Core
+item.cyber:mobCoreBlaze.name=Mob Core (Blaze)
+item.cyber:mobCoreCreeper.name=Mob Core (Creeper)
+item.cyber:mobCoreEnderman.name=Mob Core (Enderman)
+item.cyber:mobCoreSkeleton.name=Mob Core (Skeleton)
+item.cyber:mobCoreSpark.name=Mob Core (Spark)
+item.cyber:mobCoreSpider.name=Mob Core (Spider)
+item.cyber:mobCoreWitherSkeleton.name=Mob Core (Wither Skeleton)
+item.cyber:mobCoreZombie.name=Mob Core (Zombie)
+item.cyber:superchargedAirCore.name=Supercharged Core (Air)
+item.cyber:superchargedEarthCore.name=Supercharged Core (Earth)
+item.cyber:superchargedEnderCore.name=Supercharged Core (Ender)
+item.cyber:superchargedFireCore.name=Supercharged Core (Fire)
+item.cyber:superchargedWaterCore.name=Supercharged Core (Water)
+
+tile.cyber:blockOctironBlcok.name=Octiron Block

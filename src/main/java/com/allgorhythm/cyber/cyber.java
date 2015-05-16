@@ -1,6 +1,7 @@
 package com.allgorhythm.cyber;
 
         import com.allgorhythm.cyber.handler.ConfigurationHandler;
+        import com.allgorhythm.cyber.init.ModBlocks;
         import com.allgorhythm.cyber.init.ModItems;
         import com.allgorhythm.cyber.proxy.IProxy;
         import com.allgorhythm.cyber.reference.Reference;
@@ -30,6 +31,7 @@ public class cyber
         LogHelper.info("Pre-Initialization Complete!");
 
         ModItems.init();
+        ModBlocks.init();
     }
 
     @Mod.EventHandler
